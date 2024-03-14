@@ -1,23 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "thinkpad",
-    "database": "booklist_dev",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
-  "test": {
-    "username": "root",
-    "password": null,
-    "database": "booklist_test",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
-  "production": {
-    "username": "root",
-    "password": null,
-    "database": "booklist_prod",
-    "host": "127.0.0.1",
+    "username": "freedb_nanana",
+    "password": "agNFBX?eYJ@qc7w",
+    "database": "freedb_booklist",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   }
 }
